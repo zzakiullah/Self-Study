@@ -47,17 +47,65 @@ Sorted by topic, books sorted by difficulty
 - *Differential Equations with Applications and Historical Notes* by George F. Simmons
 - *Differential Equations, Dynamical Systems, and an Introduction to Chaos* by Morris W. Hirsch, Stephen Smale, and Robert L. Devaney 
 
+## Partial Differential Equations (PDEs)
+
+**Undergraduate**
+- *Applied Partial Differential Equations with Fourier Series and Boundary Value Problems* by Richard Haberman
+**Graduate**
+- *Partial Differential Equations* by Lawrence C. Evans
+
 ## Linear Algebra
+
+**Undergraduate**
+- *Linear Algebra* by Stephen H. Friedberg, Arnold J. Insel, and Lawrence E. Spence
+**Graduate**
+- *A Second Course in Linear Algebra* by Stephan Ramon Garcia and Roger A. Horn
+- *Matrix Analysis* by Roger A Horn and Charles R. Johnson
 
 ## Point-Set Topology
 
+**Advanced Undergraduate / Beginning Graduate**
+- *Topology* by James Munkres
+- *Topology* by James Dugundji
+- *Topology* by John G. Hocking and Gail S. Young (DOVER)
+- *General Topology* by John L. Kelley (The original intended title was "What every young analyst should know".) (DOVER)
+
 ## Algebraic Topology
+
+**Graduate**
+- *Algebraic Topology* by Allen Hatcher
+- *Algebraic Topology: An Introduction* by William S. Massey
 
 ## Differential Topology
 
+**Undergraduate**
+- *Calculus on Manifolds: A Modern Approach to Classical Theorems of Advanced Calculus* by Michael Spivak
+- *Differential Forms: A Complement to Vector Calculus* by Steven H. Weintraub 
+**Graduate**
+- *Differential Topology* by Victor Guillemin and Alan Pollack
+- *An Introduction to Differentiable Manifolds and Riemannian Geometry* by William M. Boothby
+
 ## Riemannian Geometry
 
+**Undergraduate**
+- *Differential Geometry of Curves and Surfaces* by Manfredo P. do Carmo (DOVER) 
+**Graduate**
+- *Riemannian Geometry* by Manfredo P. do Carmo
+- *A Comprehensive Introduction to Differential Geometry, Vol. 1, 2, 3, 4, 5* by Michael Spivak
+
 ## Number Theory
+
+**Elementary Number Theory**
+- *A Friendly Introduction to Number Theory* by Joseph Silverman
+- *An Introduction to the Theory of Numbers* by G. H. Hardy, Edward M. Wright and Andrew Wiles
+**Algebraic Number Theory**
+- *A Conversational Introduction to Algebraic Number Theory: Arithmetic Beyond Z* by Paul Pollack
+**Analytic Number Theory**
+- *Introduction to Analytic Number Theory* by Tom M. Apostol 
+**Elliptic Curves**
+- *Elliptic Curves, Modular Forms, and Their L-functions =* by Alvaro Lozano-Robledo
+- *The Arithmetic of Elliptic Curves* by Joseph H. Silverman
+- *Elliptic Curves* by J.S. Milne
 
 ## Algebraic Geometry
 
