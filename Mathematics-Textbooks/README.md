@@ -1,6 +1,6 @@
 # Mathematics Textbooks for Self Study
 
-[Source](https://marktomforde.com/academic/mathmajors/textbook-suggestions.html)
+Full list found here: [Source](https://marktomforde.com/academic/mathmajors/textbook-suggestions.html)
 
 Sorted by topic, books sorted by difficulty
 
@@ -8,6 +8,7 @@ Sorted by topic, books sorted by difficulty
 
 **Undergraduate**
 - *Contemporary Abstract* Algebra by Joe Gallian
+
 **Graduate**
 - *Abstract Algebra* by David S. Dummit and Richard M. Foote
 - *Field and Galois Theory* by Patrick Morandi
@@ -20,6 +21,7 @@ Sorted by topic, books sorted by difficulty
 - *Principles of Mathematical Analysis* by Walter Rudin
 - *Understanding Analysis* by Stephen Abbott
 - *Elementary Analysis: The Theory of Calculus* by Kenneth Ross
+
 **Graduate**
 - *Real and Complex Analysis* by Walter Rudin
 - *Real Analysis: Modern Techniques and Their Applications* by Gerald B. Folland
@@ -30,6 +32,7 @@ Sorted by topic, books sorted by difficulty
 
 **Undergraduate**
 - *Complex Variables and Applications* by James Brown and Ruel Churchill
+
 **Graduate**
 - *Real and Complex Analysis* by Walter Rudin
 - *Complex Analysis* by Lars Ahlfors
@@ -51,6 +54,7 @@ Sorted by topic, books sorted by difficulty
 
 **Undergraduate**
 - *Applied Partial Differential Equations with Fourier Series and Boundary Value Problems* by Richard Haberman
+
 **Graduate**
 - *Partial Differential Equations* by Lawrence C. Evans
 
@@ -58,6 +62,7 @@ Sorted by topic, books sorted by difficulty
 
 **Undergraduate**
 - *Linear Algebra* by Stephen H. Friedberg, Arnold J. Insel, and Lawrence E. Spence
+
 **Graduate**
 - *A Second Course in Linear Algebra* by Stephan Ramon Garcia and Roger A. Horn
 - *Matrix Analysis* by Roger A Horn and Charles R. Johnson
@@ -81,6 +86,7 @@ Sorted by topic, books sorted by difficulty
 **Undergraduate**
 - *Calculus on Manifolds: A Modern Approach to Classical Theorems of Advanced Calculus* by Michael Spivak
 - *Differential Forms: A Complement to Vector Calculus* by Steven H. Weintraub 
+
 **Graduate**
 - *Differential Topology* by Victor Guillemin and Alan Pollack
 - *An Introduction to Differentiable Manifolds and Riemannian Geometry* by William M. Boothby
@@ -89,6 +95,7 @@ Sorted by topic, books sorted by difficulty
 
 **Undergraduate**
 - *Differential Geometry of Curves and Surfaces* by Manfredo P. do Carmo (DOVER) 
+
 **Graduate**
 - *Riemannian Geometry* by Manfredo P. do Carmo
 - *A Comprehensive Introduction to Differential Geometry, Vol. 1, 2, 3, 4, 5* by Michael Spivak
@@ -98,10 +105,13 @@ Sorted by topic, books sorted by difficulty
 **Elementary Number Theory**
 - *A Friendly Introduction to Number Theory* by Joseph Silverman
 - *An Introduction to the Theory of Numbers* by G. H. Hardy, Edward M. Wright and Andrew Wiles
+
 **Algebraic Number Theory**
 - *A Conversational Introduction to Algebraic Number Theory: Arithmetic Beyond Z* by Paul Pollack
+
 **Analytic Number Theory**
 - *Introduction to Analytic Number Theory* by Tom M. Apostol 
+
 **Elliptic Curves**
 - *Elliptic Curves, Modular Forms, and Their L-functions =* by Alvaro Lozano-Robledo
 - *The Arithmetic of Elliptic Curves* by Joseph H. Silverman
@@ -109,7 +119,26 @@ Sorted by topic, books sorted by difficulty
 
 ## Algebraic Geometry
 
+**Undergraduate**
+- *Elementary Algebraic Geometry* by Klaus Hulek
+- *Algebraic Geometry: A Problem Solving Approach* by Thomas Garrity, Richard Belshoff, Lynette Boos, Ryan Brown, and Carl Lienert
+- *Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra* by David A. Cox, John Little, and Donal O'Shea
+
+**Graduate**
+- *Algebraic Geometry* by Robin Hartshorne
+- *Principles of Algebraic Geometry* by Phillip Griffiths and Joseph Harris
+
 ## Logic, Set Theory, and Computability
+
+**Undergraduate**
+- *A Mathematical Introduction to Logic* by Herbert Enderton
+
+**Graduate**
+- *Introduction to Mathematical Logic* by Elliott Mendelson
+- *Logic for Mathematicians* by A.G. Hamilton 
 
 ## Category Theory
 
+- *Categories for the Working Mathematician* by Saunders Mac Lane
+- *Category Theory in Context* by Emily Riehl (DOVER)
+- *Basic Category Theory* by Tom Leinster
